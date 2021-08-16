@@ -82,7 +82,7 @@ class App extends Component {
 
   verifyWinner(deck) {
     if (deck.filter((card) => !card.wasSuccessfull).length === 0) {
-      alert(`Eres un ganador en ${this.numberStep} intentos!`);
+      alert(`Eres un ganador en ${this.state.numberStep} intentos!`);
     }
   }
 
