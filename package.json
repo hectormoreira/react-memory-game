@@ -41,5 +41,10 @@
   },
   "devDependencies": {
     "react-flipcard-2": "^0.3.2"
-  }
+  },
+  "description": "React Memory Game, This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "keywords": ["memory-game","game", "reacjs"],
+  "author": "Héctor Moreira <hector.moreirac@gmail.com>",
+  "license": "MIT"
 }
